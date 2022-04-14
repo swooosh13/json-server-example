@@ -1,0 +1,47 @@
+{
+    "coins": [
+        {
+            "id": 1,
+            "name": "любимчики",
+            "list": [
+                {
+                    "id": "bitcoin",
+                    "symbol": "BTC",
+                    "name": "Bitcoin"
+                },
+                {
+                    "id": "ethereum",
+                    "symbol": "ETH",
+                    "name": "Ethereum"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "возможно упадут",
+            "list": [
+                {
+                    "id": "bitcoin",
+                    "symbol": "BTC",
+                    "name": "Bitcoin"
+                },
+                {
+                    "id": "litecoin",
+                    "symbol": "LTC",
+                    "name": "Litecoin"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "пока хз",
+            "list": [
+                {
+                    "id": "xrp",
+                    "symbol": "XRP",
+                    "name": "Xrp"
+                }
+            ]
+        }
+    ]
+  }

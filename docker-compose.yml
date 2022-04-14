@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  jsonserver:
+    container_name: json-server
+    build:
+      context: ./jsonserver
+      dockerfile: Dockerfile
+    ports:
+      - "8000:3000"
+
+
